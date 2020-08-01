@@ -12,6 +12,7 @@
 1. See the time apart from the the current day to a Cark's most recent post (to determine if the account is "dead" or no longer in use)
 2. Log the times a Cark account posts when the tool is activated
 3. See a list of all the Cark accounts on twitter
+4. Give me (lin8x) bragging rights
 
 <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 

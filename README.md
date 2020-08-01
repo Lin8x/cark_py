@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
-## :mag_right: &nbsp; About &nbsp; :mag_right:
+## <p align="center"> :mag_right: &nbsp; About &nbsp; :mag_right: </p>
 
 **Version:** Alpha 0.1
 

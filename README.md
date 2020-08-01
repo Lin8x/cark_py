@@ -29,21 +29,21 @@
 
 ## How to Install
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="20" height="20"> &nbsp; Windows (GUI)
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="20" height="20"> &nbsp; Windows (GUI) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="20" height="20">
 
 Just click on the .exe file twice and it should run automatically.
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/cmdline.png" alt="cmdlogo" width="20" height="20"> &nbsp; Windows (Command Prompt)
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/cmdline.png" alt="cmdlogo" width="20" height="20"> &nbsp; Windows (Command Prompt) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/cmdline.png" alt="cmdlogo" width="20" height="20">
 
 ```start cark.exe```
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/apple.png" alt="maclogo" width="20" height="20"> &nbsp; Mac OS
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/apple.png" alt="maclogo" width="20" height="20"> &nbsp; Mac OS &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/apple.png" alt="maclogo" width="20" height="20">
 
 ```cd PATH/TO/DIRECTORY/OF/PROJECT
 sudo python3 main.py
 ```
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/linux.png" alt="linuxlogo" width="20" height="20"> &nbsp; Linux (Debian/Ubuntu-based)
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/linux.png" alt="linuxlogo" width="20" height="20"> &nbsp; Linux (Debian/Ubuntu-based) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/linux.png" alt="linuxlogo" width="20" height="20">
 
 ```cd PATH/TO/DIRECTORY/OF/PROJECT 
 

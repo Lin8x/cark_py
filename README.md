@@ -8,7 +8,7 @@
 
 **Version:** Alpha 0.1
 
-**Lin8x's Twitter:** ![@Dan_Meh](https://twitter.com/dan_meh_)_
+**Lin8x's Twitter:** ![@Dan_Meh_](https://twitter.com/dan_meh_)
 
 **Cark_Py is a python program that is designed to:**
 1. See the time apart from the the current day to a Cark's most recent post (to determine if the account is "dead" or no longer in use)

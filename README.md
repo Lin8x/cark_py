@@ -29,21 +29,21 @@
 
 ## :inbox_tray: &nbsp; How to Install &nbsp; :inbox_tray:
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="20" height="20"> &nbsp; Windows (GUI) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="20" height="20">
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="15" height="15"> &nbsp; Windows (GUI) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="15" height="15">
 
 Just click on the .exe file twice and it should run automatically.
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/cmdline.png" alt="cmdlogo" width="10" height="10"> &nbsp; Windows (Command Prompt) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/cmdline.png" alt="cmdlogo" width="10" height="10">
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/cmdline.png" alt="cmdlogo" width="15" height="15"> &nbsp; Windows (Command Prompt) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/cmdline.png" alt="cmdlogo" width="15" height="15">
 
 ```start cark.exe```
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/apple.png" alt="maclogo" width="10" height="10"> &nbsp; Mac OS &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/apple.png" alt="maclogo" width="10" height="10">
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/apple.png" alt="maclogo" width="15" height="15"> &nbsp; Mac OS &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/apple.png" alt="maclogo" width="15" height="15">
 
 ```cd PATH/TO/DIRECTORY/OF/PROJECT
 sudo python3 main.py
 ```
 
-#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/linux.png" alt="linuxlogo" width="10" height="10"> &nbsp; Linux (Debian/Ubuntu-based) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/linux.png" alt="linuxlogo" width="10" height="10">
+#### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/linux.png" alt="linuxlogo" width="15" height="15"> &nbsp; Linux (Debian/Ubuntu-based) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/linux.png" alt="linuxlogo" width="15" height="15">
 
 ```cd PATH/TO/DIRECTORY/OF/PROJECT 
 

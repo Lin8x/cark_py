@@ -2,7 +2,7 @@
 
 # <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/python_cark.png" alt="carklogo" width="50" height="50"> &nbsp; Cark_Py &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/python_cark.png" alt="carklogo" width="50" height="50">
 
---------------------------------------------
+<img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
 ## : About
 
@@ -13,7 +13,7 @@
 2. Log the times a cark account posts when the tool is activated
 3. See a list of all the Cark accounts on twitter
 
---------------------------------------------
+<img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
 ## Requirements
 ``` THIS PORTION IS NOT FINISHED ```
@@ -25,7 +25,7 @@
 - Python 3
 - Pip 3
 
---------------------------------------------
+<img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
 ## How to Install
 
@@ -52,4 +52,4 @@ sudo python3 install.py
 carkpy
 ```
 
---------------------------------------------
+<img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">

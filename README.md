@@ -1,6 +1,6 @@
 --------------------------------------------
 
-# cark_py
+# <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/python_cark.png" alt="carklogo" width="60" height="60"> &nbsp; Cark_Py &nbsp; <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/python_cark.png" alt="carklogo" width="60" height="60">
 
 --------------------------------------------
 

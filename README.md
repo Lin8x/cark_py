@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
-## : About
+## :mag_right: &nbsp; About &nbsp; :mag_right:
 
 **Version:** Alpha 0.1
 
@@ -15,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
-## Requirements
+## :unlock: &nbsp; Requirements &nbsp; :unlock:
 ``` THIS PORTION IS NOT FINISHED ```
 
 #### Windows
@@ -27,7 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
-## How to Install
+## :inbox_tray: &nbsp; How to Install &nbsp; :inbox_tray:
 
 #### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="20" height="20"> &nbsp; Windows (GUI) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="20" height="20">
 

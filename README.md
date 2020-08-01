@@ -21,7 +21,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
-## :unlock: &nbsp; Requirements &nbsp; :unlock:
+<p align="center"> ## :unlock: &nbsp; Requirements &nbsp; :unlock: </p>
 ``` THIS PORTION IS NOT FINISHED ```
 
 #### Windows
@@ -33,7 +33,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
-## :inbox_tray: &nbsp; How to Install &nbsp; :inbox_tray:
+<p align="center"> ## :inbox_tray: &nbsp; How to Install &nbsp; :inbox_tray: </p>
 
 #### <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="15" height="15"> &nbsp; Windows (GUI) &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/win.png" alt="winlogo" width="15" height="15">
 

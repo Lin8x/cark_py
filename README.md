@@ -1,4 +1,4 @@
---------------------------------------------
+<img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/hair_colour.png" width="100%" height="5">
 
 # <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/python_cark.png" alt="carklogo" width="50" height="50"> &nbsp; Cark_Py &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/cark_py/master/images/python_cark.png" alt="carklogo" width="50" height="50">
 
